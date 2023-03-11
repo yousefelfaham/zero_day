@@ -1,1 +1,1 @@
-My first Rep
+This file is mandatory in projects
